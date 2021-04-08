@@ -9,7 +9,7 @@ Saponetto può essere avviato su qualunque dispositivo che supporti python3.
 
 Fai partire saponetto su un dispositivo connesso al modem e lui ti invierà tutte le informazioni su Discord!
 
-## pre-requisiti
+## Pre-requisiti
 
 + ModemAlcatelMW40V
 
@@ -20,7 +20,7 @@ Fai partire saponetto su un dispositivo connesso al modem e lui ti invierà tutt
 + riempire campi nel file config che verrà creato al primo avvio
 
 
-## uso
+## Uso
 python3 saponetto.py -setMin 50 -setInt 5
 
 ```
