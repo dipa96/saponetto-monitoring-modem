@@ -23,3 +23,16 @@ Fai partire saponetto su un dispositivo connesso al modem e lui ti invierà tutt
 ## uso
 python3 saponetto.py -setMin 50 -setInt 5
 
+```
+> python3 saponetto.py -h
+usage: saponetto.py [-h] -setMin SETMIN -setInt SETINT [-mode MODE]
+
+MONITORING MODEM - Crea il tuo WebHook su Discord, riempi il file di configurazione ed avvia lo script!
+
+optional arguments:
+  -h, --help      show this help message and exit
+  -setMin SETMIN  Imposta percentuale batteria per entrare in zona critica! -> -setMin 30
+  -setInt SETINT  Imposta intervallo di controllo, espresso in minuti -> -setInt 5
+  -mode MODE      COMING SOON...
+```
+
