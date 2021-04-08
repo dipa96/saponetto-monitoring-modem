@@ -1,7 +1,16 @@
 # saponetto-monitoring-modem
 
 ## pre-requisiti
-pip3 install requirements.txt
+
++ ModemAlcatelMW40V
+
++ pip3 install requirements.txt
+
++ prendere webhook di un canale testuale di discord
+
++ riempire campi nel file config che verrà creato al primo avvio
+
+
 ## uso
-python3 saponetto.py python3 saponetto.py -setMin 50 -setInt 5
+python3 saponetto.py -setMin 50 -setInt 5
 
