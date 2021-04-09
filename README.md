@@ -21,7 +21,9 @@ Fai partire saponetto su un dispositivo connesso al modem e lui ti invierà tutt
 
 
 ## Uso
-python3 saponetto.py -setMin 50 -setInt 5
+```
+> python3 saponetto.py -setMin 50 -setInt 5
+```
 
 ```
 > python3 saponetto.py -h
