@@ -19,6 +19,7 @@ Fai partire saponetto su un dispositivo connesso al modem e lui ti invierà tutt
 ## Pre-requisiti
 
 + ModemAlcatelMW40V
+![saponetto](IMAGES/modem.png)
 
 + pip3 install requirements.txt
 
