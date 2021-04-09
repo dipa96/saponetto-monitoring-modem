@@ -22,7 +22,7 @@ Fai partire saponetto su un dispositivo connesso al modem e lui ti invierà tutt
 
 + pip3 install requirements.txt
 
-+ Copiare webhook di un canale testuale di discord
++ Copiare webhook di un canale testuale di discord (https://discord.com/developers/docs/resources/webhook)
 
 + Riempire campi nel file config che verrà creato al primo avvio
 
