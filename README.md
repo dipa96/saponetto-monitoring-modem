@@ -43,3 +43,6 @@ optional arguments:
   -mode MODE      COMING SOON...
 ```
 
+## Contributi
+
+https://github.com/DanieleLupo94/checkModemAlcatelMW40V
