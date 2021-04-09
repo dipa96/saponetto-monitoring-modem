@@ -1,6 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/dipa96/saponetto-monitoring-modem?style=flat-square)
 [![contributions issues](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dipa96/saponetto-monitoring-modem/issues)
-[![HitCount](http://hits.dwyl.com/dipa96/saponetto-monitoring-modem.svg)](http://hits.dwyl.com/dipa96/saponetto-monitoring-modem)
 # saponetto-monitoring-modem
 
 ![saponetto](IMAGES/boo.png)
