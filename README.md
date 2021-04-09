@@ -3,6 +3,10 @@
 ![saponetto](IMAGES/boo.png)
 
 ## A cosa potrebbe servirti saponetto?
+
+L'Università degli Studi di Salerno ha dato in dotazione a tutti gli studenti un Modem Alcate lMW40V, la procedura per controllare batteria ed altre informazioni è molto lunga. 
+Per questo nasce saponettO, per controllare la saponettA senza nessun tipo di CLICK!
+
 Saponetto controlla il tuo modem alcatel , ti dà una overview dello stato attuale e ti avvisa se il modem scende sotto una determinata soglia, che decidi tu!
 
 Saponetto può essere avviato su qualunque dispositivo che supporti python3.
