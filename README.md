@@ -24,7 +24,7 @@ Fai partire saponetto su un dispositivo connesso al modem e lui ti invierà tutt
 ```
 > python3 saponetto.py -setMin 50 -setInt 5
 ```
-
+In questo modo stai dicendo a Saponetto di controllare ogni 5 minuti il modem ed avvisarti se la batteria scende sotto il 50%
 ```
 > python3 saponetto.py -h
 usage: saponetto.py [-h] -setMin SETMIN -setInt SETINT [-mode MODE]
