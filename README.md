@@ -42,6 +42,10 @@ optional arguments:
   -setInt SETINT  Imposta intervallo di controllo, espresso in minuti -> -setInt 5
   -mode MODE      COMING SOON...
 ```
+## TO-DO
+
++ Supporto background Windows\Linux
++ Notifica Telegram
 
 ## Contributi
 
